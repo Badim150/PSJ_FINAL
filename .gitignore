@@ -6,3 +6,8 @@ Intermediate/CachedAssetRegistry.bin
 Saved/Config/Windows/Editor.ini
 *.ini
 Saved/Autosaves/PackageRestoreData.json
+*.json
+Saved/Autosaves/PackageRestoreData.json
+Saved/Logs/PSJ_FINAL.log
+*.ini
+Saved/Autosaves/PackageRestoreData.json

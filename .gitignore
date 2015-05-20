@@ -1,7 +1,5 @@
-Intermediate/CachedAssetRegistry.bin
-Saved/Config/Windows/Editor.ini
-Saved/Logs/PSJ_FINAL.log
-Saved/Autosaves/PackageRestoreData.json
-Intermediate/CachedAssetRegistry.bin
-Saved/Config/Windows/EditorLayout.ini
+*.bin
+*.ini
+*.json
+*.bin
 *.log
